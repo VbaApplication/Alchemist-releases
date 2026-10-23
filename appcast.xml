@@ -2,5 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Alchemist</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 23 Oct 2026 09:52:51 +0200</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>test</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/Alchemist-releases/releases/download/v1.0.0/Alchemist-1.0.0.dmg" length="6734632" type="application/octet-stream" sparkle:edSignature="O8zyNLReAGzzb4LeYVG3LH5wP/jxW9Zr/2Ddvs+SxD3xLMvPEU9nRmE++l1xjObpbFE9EHs67U+JeM6/oXc1Dw=="/>
+        </item>
     </channel>
 </rss>
