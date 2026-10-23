@@ -8,7 +8,8 @@
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>test</p>
+            <description><![CDATA[<p>First release: radial wheels to convert, edit and act on files while you drag them.</p>
+<p>Prima versione: ruote radiali per convertire, modificare e gestire i file mentre li trascini.</p>
 ]]></description>
             <enclosure url="https://github.com/VbaApplication/Alchemist-releases/releases/download/v1.0.0/Alchemist-1.0.0.dmg" length="6734632" type="application/octet-stream" sparkle:edSignature="O8zyNLReAGzzb4LeYVG3LH5wP/jxW9Zr/2Ddvs+SxD3xLMvPEU9nRmE++l1xjObpbFE9EHs67U+JeM6/oXc1Dw=="/>
         </item>
