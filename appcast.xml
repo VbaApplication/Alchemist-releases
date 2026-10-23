@@ -3,6 +3,17 @@
     <channel>
         <title>Alchemist</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 23 Oct 2026 10:04:10 +0200</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notices are Alchemist&#x27;s cards again, now in the top-right corner instead of the middle of the screen.</p>
+<p>Gli avvisi tornano a essere le schede di Alchemist, ora in alto a destra invece che al centro dello schermo.</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/Alchemist-releases/releases/download/v1.0.1/Alchemist-1.0.1.dmg" length="6659005" type="application/octet-stream" sparkle:edSignature="JOGqd0XygIcFGSJWWhoYN1taDvIf5enkzIPFdZMweSGJo1aGzjsArtZ71h2+mIuTDjvrCMwgb6wxwibqCSlpBA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 23 Oct 2026 09:52:51 +0200</pubDate>
             <sparkle:version>38</sparkle:version>
